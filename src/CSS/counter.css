@@ -1,0 +1,25 @@
+.count{
+    height:200px;
+    background-color: brown;
+    width:200px;
+}
+body{
+    display:flex;
+    justify-content: center;
+}
+h1{
+    color:white;
+
+}
+button{
+    border-radius: 20px;
+    height:100px;
+    height:40px;
+
+}
+h2{
+    color:brown;
+}
+h3{
+    color:rgb(55,55,120)
+}
